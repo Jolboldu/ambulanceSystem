@@ -24,6 +24,10 @@ e)  After that you have to login via admin panel and create new user, in order t
   1) comment line 111
   2) comment line 74-80
   Once created user, uncomment these lines
+
+d) Create all data via `cardOfCalls` in admin panel
+
+e) enjoy
 ## Next steps
 
 This example has no front-end application but you can build your own using the GraphQL API (`http://localhost:3000/admin/graphiql`).
